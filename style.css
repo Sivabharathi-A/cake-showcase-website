@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+body {
+    height: auto;
+    background-image: url("https://images.sbs.com.au/dims4/default/c781fdd/2147483647/strip/true/crop/2666x1500+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdd%2F4d%2F6a9b033845539b189444f184d7cb%2Frx25-recipe-gabrielaoporto-chocolatecake-creditjiwonkim-tcus7-1.jpg");
+    background-color: white;
+    width: 203.25vh;
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    margin: 0;
+   }
+#home{
+    height: 700px;
+    
+}
+#navbar{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 204.85vh;
+    margin: 0;
+    height: 80px;
+    background-color: white;
+    justify-content: space-evenly;
+}
+#navbar ul {
+    display: inline;
+    padding: 5px 5px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+ 
+#navbar ul li {
+    display: inline;
+    list-style: none;
+}
+ 
+#navbar ul li a{
+    color: rgb(236, 49, 49);
+    font-size: 20px;
+    padding: 30px;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+ 
+#navbar ul li a:hover {
+    background-color: rgb(233, 83, 83);
+    color: #f1f5f4;
+}
+#hanging-icons{
+    width: 100%;
+}
+#hanging-icons h1{
+    color: rgb(236, 49, 49);
+}
+#hanging-icons p{
+    color: rgb(233, 83, 83);
+}
+#container{
+    width: 100%;
+    display: flex;
+    margin: 10px 10px;
+    color: white;
+}
+.image {
+    margin: 5px 10px;
+    background-color: rgb(222, 79, 79);
+    padding: 0 5px;
+    float: left;
+    width: 25%;
+  }
+.gallery{
+    margin: 10px 10px;
+}
+
+#footer{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(232, 45, 45);
+    color: white;
+    margin-bottom: 0%;
+    height: 50px;
+    padding-top: 10px;
+}
+#footer h1{
+    font-family: "Nunito", "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 1.5rem;
+}
