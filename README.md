@@ -51,7 +51,7 @@ cake-showcase-website/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/cake-showcase-website.git
+   git clone https://github.com/Sivabharathi-A/cake-showcase-website.git
    cd cake-showcase-website
    ```
 
