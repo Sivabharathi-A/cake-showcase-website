@@ -53,7 +53,7 @@ cake-showcase-website/
    ```bash
    git clone https://github.com/your-username/cake-showcase-website.git
    cd cake-showcase-website
-````
+   ```
 
 2. Open `index.html` in your browser
 
@@ -68,8 +68,12 @@ cake-showcase-website/
 
 ---
 
-##👤Author
+## 👤 Author
 
-**Designed by:** [Siva Bharathi](mailto:sivabharathi565@gmail.com)
+Developed by [Siva Bharathi](https://github.com/Sivabharathi-A)
+
+---
+
+> Built with 💻, ☕, and a passion for productivity and clean design.
 
 ---
