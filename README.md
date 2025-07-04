@@ -73,7 +73,3 @@ cake-showcase-website/
 Developed by [Siva Bharathi](https://github.com/Sivabharathi-A)
 
 ---
-
-> Built with 💻, ☕, and a passion for productivity and clean design.
-
----
